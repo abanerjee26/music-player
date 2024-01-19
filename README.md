@@ -1,6 +1,6 @@
-# Spotify Clone
+# Rhythmix
 
-This is a Spotify clone made using React, Tailwind, Shazam, and Redux.
+This is a music player, inspired by Spotify. Powered by React, Redux, Tailwind, and Shazam.
 
 ## Screenshots
 
